@@ -1,5 +1,5 @@
 # Bungalow-RC-Project-2021
-Melbourne engineering students passion project to create a RC car and controller from scratch 
+Passion project by engineering & design students to create a RC car and controller from scratch 
 ## The Team
 - Mechanical Engineer: [Samuel Creati]()
 - Industrial Designer: [Daniel Nguyen]()
