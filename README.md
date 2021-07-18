@@ -14,7 +14,7 @@ Passion project by engineering & design students to create a RC car and controll
 
 ## Terminology
 - Bottom plate – A rigid structure that sits on the floor of the car and is where most of the vehicle’s internals are attached
--Chassis – The main body of the vehicle that is bolted to the bottom plate
+- Chassis – The main body of the vehicle that is attached to the bottom plate
 - RC controller – The device that allows control of the RC car via radio transmission
 - RC transmitter – The component inside the RC controller which emits radio signals
 - RC transceiver – The electronics in the RC car that receives and processes incoming radio signals
