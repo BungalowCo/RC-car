@@ -32,8 +32,7 @@ Consists of 4 Phases:
 > 1. Prototyping Phase
 > 2. Finalisation Phase
 > 3. Production Phase
-> 4. Refinement Phase <
-Currently, only the first two phases are in motion as the following stages require the completion of the first two stages.  
+> 4. Refinement Phase
 
 ![Preliminary Gantt Chart](https://github.com/LANGA326/Bungalow-RC-Project-2021/blob/main/Preliminary%20Gantt%20Chart.png)
 
